@@ -1,0 +1,8 @@
+首先第一步 你要先创建自己的仓库 使用git init
+
+
+先git clone +  url  然后查看当前工作目录确定工作目录 可以使用vim进行编辑创建 
+git status 查看状态  git add . 是可以进行跟踪、
+git commiit -m  "备注”
+git remote -v 可查看是否有远程仓库
+git push origin main 随后即上传2
